@@ -1,0 +1,14 @@
+# Service
+apiVersion: v1
+kind: Service
+metadata:
+  name: pf-service
+  namespace: pfinal
+spec:
+  selector:
+    app: pf-app
+  ports:
+    - protocol: TCP
+      port: 80
+      targetPort: 9095
+  type: ClusterIP
