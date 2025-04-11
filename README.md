@@ -63,9 +63,3 @@ Se usa la imagen de Docker Hub para generar un 2do Contenedor:<br>
 
 Se verifica el contenedor generado:<br>
 ![image](https://github.com/user-attachments/assets/615dcbde-7d68-4f46-8aba-84584737497a)
-
- 
-
-
-
-
